@@ -1,6 +1,6 @@
-exercise_1_Vegas: Evaluation of the propagator for several initial and final values x0=xN and comparison with analytic results. Harmonic potential case.
+exercise_1_Vegas: Solving path integral using Vegas to evaluate the propagator for several initial and final values x0=xN and comparison with analytic results. Harmonic potential case.
 
-exercise_1_Vegas_Quart: Evaluation of the propagator for several initial and final values x0=xN and comparison with analytic results. Quartic potential case.
+exercise_1_Vegas_Quart: Solving path integral using Vegas to evaluate the propagator for several initial and final values x0=xN and comparison with analytic results. Quartic potential case.
 
 exercise_2_HarmonicPot: Evaluation of energy difference between first and ground state for the harmonic oscillator case with correlator x(t+a)x(t) and comparison with analytic result.
 
